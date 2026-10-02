@@ -1,0 +1,9 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "description": "CLI simples para gerenciar tarefas, salvas em um arquivo JSON (projeto roadmap.sh)",
+  "bin": {
+    "task-cli": "./task-cli.js"
+  },
+  "license": "MIT"
+}
