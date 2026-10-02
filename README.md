@@ -12,6 +12,7 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
     ├── README.md
     ├── task-tracker-cli/
     ├── github-user-activity/
+    ├── expense-tracker/
     └── ...
 
 ## Projetos
@@ -20,11 +21,13 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
 |---|---|---|---|
 | [Task Tracker](./task-tracker-cli) | Iniciante | Node.js | CLI para adicionar, atualizar, remover e listar tarefas, salvas em um arquivo JSON |
 | [GitHub User Activity](./github-user-activity) | Iniciante | Node.js | CLI que busca e mostra a atividade recente de um usuário do GitHub usando a API pública |
+| [Expense Tracker](./expense-tracker) | Iniciante | Node.js | CLI para controlar despesas, com resumo mensal, categorias, orçamento e exportação para CSV |
 
 Enunciados originais:
 
 - [Task Tracker no roadmap.sh](https://roadmap.sh/projects/task-tracker)
 - [GitHub User Activity no roadmap.sh](https://roadmap.sh/projects/github-user-activity)
+- [Expense Tracker no roadmap.sh](https://roadmap.sh/projects/expense-tracker)
 
 ## Objetivo
 

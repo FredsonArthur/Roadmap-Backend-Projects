@@ -1,0 +1,4 @@
+node_modules/
+expenses.json
+*.csv
+.DS_Store

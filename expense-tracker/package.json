@@ -1,0 +1,9 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "CLI para controlar despesas, com categorias, orçamento mensal e exportação para CSV (projeto roadmap.sh)",
+  "bin": {
+    "expense-tracker": "./expense-tracker.js"
+  },
+  "license": "MIT"
+}
