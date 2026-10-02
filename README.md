@@ -11,6 +11,7 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
     Roadmap-Backend-Projects/
     ├── README.md
     ├── task-tracker-cli/
+    ├── github-user-activity/
     └── ...
 
 ## Projetos
@@ -18,8 +19,12 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
 | Projeto | Nível | Linguagem | Descrição |
 |---|---|---|---|
 | [Task Tracker](./task-tracker-cli) | Iniciante | Node.js | CLI para adicionar, atualizar, remover e listar tarefas, salvas em um arquivo JSON |
+| [GitHub User Activity](./github-user-activity) | Iniciante | Node.js | CLI que busca e mostra a atividade recente de um usuário do GitHub usando a API pública |
 
-Enunciado original: [Task Tracker no roadmap.sh](https://roadmap.sh/projects/task-tracker)
+Enunciados originais:
+
+- [Task Tracker no roadmap.sh](https://roadmap.sh/projects/task-tracker)
+- [GitHub User Activity no roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 
 ## Objetivo
 
