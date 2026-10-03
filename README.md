@@ -14,6 +14,7 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
     ├── github-user-activity/
     ├── expense-tracker/
     ├── number-guessing-game/
+    ├── unit-converter/
     └── ...
 
 ## Projetos
@@ -24,13 +25,15 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
 | [GitHub User Activity](./github-user-activity) | Iniciante | Node.js | CLI que busca e mostra a atividade recente de um usuário do GitHub usando a API pública |
 | [Expense Tracker](./expense-tracker) | Iniciante | Node.js | CLI para controlar despesas, com resumo mensal, categorias, orçamento e exportação para CSV |
 | [Number Guessing Game](./number-guessing-game) | Iniciante | Node.js | Jogo de adivinhar o número no terminal, com níveis de dificuldade, dicas, cronômetro e recordes |
+| [Unit Converter](./unit-converter) | Iniciante | Node.js | Aplicação web de conversão de unidades com renderização no servidor, abrangendo moeda, comprimento, área, volume, peso, temperatura, velocidade, pressão, potência e sistemas numéricos |
 
-Enunciados originais:
+## Enunciados originais:
 
 - [Task Tracker no roadmap.sh](https://roadmap.sh/projects/task-tracker)
 - [GitHub User Activity no roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 - [Expense Tracker no roadmap.sh](https://roadmap.sh/projects/expense-tracker)
 - [Number Guessing Game no roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
+- [Unit Converter no roadmap.sh](https://roadmap.sh/projects/unit-converter)
 
 ## Objetivo
 
