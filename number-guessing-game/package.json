@@ -1,0 +1,12 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "Jogo de adivinhar o número no terminal, com níveis de dificuldade, dicas, cronômetro e recordes (projeto roadmap.sh)",
+  "bin": {
+    "number-guessing-game": "./number-guessing-game.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
