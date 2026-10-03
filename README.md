@@ -15,6 +15,7 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
     ├── expense-tracker/
     ├── number-guessing-game/
     ├── unit-converter/
+    ├── personal-blog/
     └── ...
 
 ## Projetos
@@ -25,18 +26,21 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
 | [GitHub User Activity](./github-user-activity) | Iniciante | Node.js | CLI que busca e mostra a atividade recente de um usuário do GitHub usando a API pública |
 | [Expense Tracker](./expense-tracker) | Iniciante | Node.js | CLI para controlar despesas, com resumo mensal, categorias, orçamento e exportação para CSV |
 | [Number Guessing Game](./number-guessing-game) | Iniciante | Node.js | Jogo de adivinhar o número no terminal, com níveis de dificuldade, dicas, cronômetro e recordes |
-| [Unit Converter](./unit-converter) | Iniciante | Node.js | Aplicação web de conversão de unidades com renderização no servidor, abrangendo moeda, comprimento, área, volume, peso, temperatura, velocidade, pressão, potência e sistemas numéricos |
+| [Unit Converter](./unit-converter) | Iniciante | Node.js | Conversor de unidades web com renderização no servidor, múltiplas categorias e formulários HTML |
+| [Personal Blog](./personal-blog) | Iniciante | Node.js | Blog pessoal com área pública, dashboard administrativo, autenticação HTTP Basic e armazenamento dos artigos em arquivos JSON |
 
-## Enunciados originais:
+Enunciados originais:
 
 - [Task Tracker no roadmap.sh](https://roadmap.sh/projects/task-tracker)
 - [GitHub User Activity no roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 - [Expense Tracker no roadmap.sh](https://roadmap.sh/projects/expense-tracker)
 - [Number Guessing Game no roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
 - [Unit Converter no roadmap.sh](https://roadmap.sh/projects/unit-converter)
+- [Personal Blog no roadmap.sh](https://roadmap.sh/projects/personal-blog)
 
 ## Objetivo
 
 - Praticar lógica de programação e organização de código
 - Trabalhar com sistema de arquivos, APIs e bancos de dados, de acordo com cada projeto
+- Praticar desenvolvimento backend com Node.js
 - Manter um portfólio versionado e atualizado com o meu progresso
