@@ -9,13 +9,23 @@ O [roadmap.sh](https://roadmap.sh) é uma plataforma gratuita com trilhas de est
 Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e pode usar uma linguagem diferente. Dentro de cada pasta há um README com o enunciado, as instruções para rodar e as decisões tomadas.
 
     Roadmap-Backend-Projects/
+
     ├── README.md
+
     ├── task-tracker-cli/
+
     ├── github-user-activity/
+
     ├── expense-tracker/
+
     ├── number-guessing-game/
+
     ├── unit-converter/
+
     ├── personal-blog/
+
+    ├── weather-api/
+
     └── ...
 
 ## Projetos
@@ -28,19 +38,32 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
 | [Number Guessing Game](./number-guessing-game) | Iniciante | Node.js | Jogo de adivinhar o número no terminal, com níveis de dificuldade, dicas, cronômetro e recordes |
 | [Unit Converter](./unit-converter) | Iniciante | Node.js | Conversor de unidades web com renderização no servidor, múltiplas categorias e formulários HTML |
 | [Personal Blog](./personal-blog) | Iniciante | Node.js | Blog pessoal com área pública, dashboard administrativo, autenticação HTTP Basic e armazenamento dos artigos em arquivos JSON |
+| [Weather API](./weather-api) | Iniciante | Node.js | API de clima com integração preparada para a Visual Crossing, cache com Redis/Valkey, variáveis de ambiente e rate limiting |
 
 Enunciados originais:
 
 - [Task Tracker no roadmap.sh](https://roadmap.sh/projects/task-tracker)
+
 - [GitHub User Activity no roadmap.sh](https://roadmap.sh/projects/github-user-activity)
+
 - [Expense Tracker no roadmap.sh](https://roadmap.sh/projects/expense-tracker)
+
 - [Number Guessing Game no roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
+
 - [Unit Converter no roadmap.sh](https://roadmap.sh/projects/unit-converter)
+
 - [Personal Blog no roadmap.sh](https://roadmap.sh/projects/personal-blog)
+
+- [Weather API no roadmap.sh](https://roadmap.sh/projects/weather-api)
 
 ## Objetivo
 
 - Praticar lógica de programação e organização de código
+
 - Trabalhar com sistema de arquivos, APIs e bancos de dados, de acordo com cada projeto
+
 - Praticar desenvolvimento backend com Node.js
+
+- Praticar conceitos como cache, variáveis de ambiente e rate limiting
+
 - Manter um portfólio versionado e atualizado com o meu progresso
