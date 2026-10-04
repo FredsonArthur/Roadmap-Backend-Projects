@@ -54,7 +54,7 @@ Enunciados originais:
 
 - [Personal Blog no roadmap.sh](https://roadmap.sh/projects/personal-blog)
 
-- [Weather API no roadmap.sh](https://roadmap.sh/projects/weather-api)
+- [Weather API no roadmap.sh](https://roadmap.sh/projects/weather-api-wrapper-service)
 
 ## Objetivo
 
