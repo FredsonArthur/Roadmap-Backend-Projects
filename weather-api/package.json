@@ -1,0 +1,16 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "Weather API using a third-party weather service, caching, environment variables, and rate limiting.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "redis": "^5.8.2"
+  },
+  "license": "MIT"
+}
