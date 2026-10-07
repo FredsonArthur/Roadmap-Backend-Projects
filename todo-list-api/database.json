@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Fredson Arthur",
+      "email": "fredsson@email.com",
+      "password": "$2b$10$pxm3y.qkbrBBbLU.rI7AnO1AsMJ6kAHGxZci/4gIVejr3wNxbZpqe"
+    },
+    {
+      "id": 2,
+      "name": "Fredson Arthur",
+      "email": "fredson@email.com",
+      "password": "$2b$10$FximzGtRuItj9OMV7cDytuht5BzrBJh4uotGU3AhW6YifjJEA9yFS"
+    }
+  ],
+  "todos": []
+}

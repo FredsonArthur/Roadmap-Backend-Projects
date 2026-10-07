@@ -18,6 +18,7 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
     ├── personal-blog/
     ├── weather-api/
     ├── blogging-platform-api/
+    ├── todo-list-api/
     └── ...
 
 ## Projetos
@@ -32,6 +33,7 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
 | [Personal Blog](./personal-blog) | Iniciante | Node.js | Blog pessoal com área pública, dashboard administrativo, autenticação HTTP Basic e armazenamento dos artigos em arquivos JSON |
 | [Weather API](./weather-api) | Iniciante | Node.js | API de clima com integração preparada para a Visual Crossing, cache com Redis/Valkey, variáveis de ambiente e rate limiting |
 | [Blogging Platform API](./blogging-platform-api) | Intermediário | Node.js | API RESTful completa para plataforma de blogs com gerenciamento de posts, comentários e sistema de rotas |
+| [Todo List API](./todo-list-api) | Intermediário | Node.js | API RESTful segura de gerenciamento de tarefas com autenticação JWT, bcrypt, paginação, isolamento de dados por usuário e persistência JSON |
 
 Enunciados originais:
 
@@ -43,11 +45,12 @@ Enunciados originais:
 - [Personal Blog no roadmap.sh](https://roadmap.sh/projects/personal-blog)
 - [Weather API no roadmap.sh](https://roadmap.sh/projects/weather-api-wrapper-service)
 - [Blogging Platform API no roadmap.sh](https://roadmap.sh/projects/blogging-platform-api)
+- [Todo List API no roadmap.sh](https://roadmap.sh/projects/todo-list-api)
 
 ## Objetivo
 
 - Praticar lógica de programação e organização de código
 - Trabalhar com sistema de arquivos, APIs e bancos de dados, de acordo com cada projeto
 - Praticar desenvolvimento backend com Node.js
-- Praticar conceitos como cache, variáveis de ambiente e rate limiting
+- Praticar conceitos como autenticação JWT, arquitetura em camadas (MVC + Services) e segurança
 - Manter um portfólio versionado e atualizado com o meu progresso
