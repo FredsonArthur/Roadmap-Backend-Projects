@@ -1,0 +1,25 @@
+{
+  "name": "tmdb-cli",
+  "version": "1.0.0",
+  "description": "CLI application to fetch movie information from TMDB API",
+  "main": "src/index.js",
+  "bin": {
+    "tmdb-app": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "cli",
+    "tmdb",
+    "movies",
+    "roadmap"
+  ],
+  "author": "Fredson Gomes",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.7"
+  }
+}
