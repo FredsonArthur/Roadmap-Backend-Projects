@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Fredson Gomes",
+      "email": "fredson@email.com",
+      "password": "$2b$10$h6rDa2xSBCTExgHpXlUi1.iexTSnswgKvAHJsRKcetRZvkTl3m8qu"
+    },
+    {
+      "id": 2,
+      "name": "Teste Novo",
+      "email": "teste2026@email.com",
+      "password": "$2b$10$vh6iwfKabNV.Yl6RX6GkQ.z3sJg9.PqGByy3fQcOp1qie/5Qhzx0."
+    },
+    {
+      "id": 3,
+      "name": "Teste Limpo",
+      "email": "limpo@email.com",
+      "password": "$2b$10$IZAZ5KdItvAeYjpDlLN9OO28pJVApNXFMqzPiW8u37pWIk.xWi8/y"
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1,
+      "userId": 3,
+      "title": "Almoço",
+      "amount": 45,
+      "category": "Groceries",
+      "date": "2026-06-10T00:00:00.000Z"
+    }
+  ]
+}
