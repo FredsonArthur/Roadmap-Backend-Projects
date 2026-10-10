@@ -22,6 +22,7 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
     ├── expense-tracker-api/
     ├── github-trending-cli/
     ├── tmdb-cli/
+    ├── caching-proxy/
     └── ...
 
 ## Projetos
@@ -40,6 +41,7 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
 | [Blogging Platform API](./blogging-platform-api) | Intermediário | Node.js | API RESTful completa para plataforma de blogs com gerenciamento de posts, comentários e sistema de rotas |
 | [Todo List API](./todo-list-api) | Intermediário | Node.js | API RESTful segura de gerenciamento de tarefas com autenticação JWT, bcrypt, paginação, isolamento de dados por usuário e persistência JSON |
 | [GitHub Trending CLI](./github-trending-cli) | Intermediário | Node.js | Ferramenta de linha de comando (CLI) que consome a API REST do GitHub para listar repositórios em alta, com filtros de período, limite de resultados e ordenação por estrelas |
+| [Caching Proxy](./caching-proxy) | Intermediário | Node.js | Servidor proxy reverso em CLI que reencaminha requisições HTTP, armazena respostas em cache e retorna os cabeçalhos X-Cache (HIT/MISS) |
 
 Enunciados originais:
 
@@ -55,6 +57,7 @@ Enunciados originais:
 - [Blogging Platform API no roadmap.sh](https://roadmap.sh/projects/blogging-platform-api)
 - [Todo List API no roadmap.sh](https://roadmap.sh/projects/todo-list-api)
 - [GitHub Trending CLI no roadmap.sh](https://roadmap.sh/projects/github-trending-cli)
+- [Caching Proxy no roadmap.sh](https://roadmap.sh/projects/caching-server)
 
 ## Objetivo
 

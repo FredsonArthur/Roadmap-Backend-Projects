@@ -1,0 +1,19 @@
+{
+  "name": "caching-proxy",
+  "version": "1.0.0",
+  "description": "Caching Proxy Server CLI",
+  "main": "src/index.js",
+  "bin": {
+    "caching-proxy": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "commander": "^15.0.0"
+  }
+}
