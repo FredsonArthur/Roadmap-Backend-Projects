@@ -23,6 +23,7 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
     ├── github-trending-cli/
     ├── tmdb-cli/
     ├── caching-proxy/
+    ├── markdown-note-app/
     └── ...
 
 ## Projetos
@@ -42,6 +43,7 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
 | [Todo List API](./todo-list-api) | Intermediário | Node.js | API RESTful segura de gerenciamento de tarefas com autenticação JWT, bcrypt, paginação, isolamento de dados por usuário e persistência JSON |
 | [GitHub Trending CLI](./github-trending-cli) | Intermediário | Node.js | Ferramenta de linha de comando (CLI) que consome a API REST do GitHub para listar repositórios em alta, com filtros de período, limite de resultados e ordenação por estrelas |
 | [Caching Proxy](./caching-proxy) | Intermediário | Node.js | Servidor proxy reverso em CLI que reencaminha requisições HTTP, armazena respostas em cache e retorna os cabeçalhos X-Cache (HIT/MISS) |
+| [Markdown Note-taking App](./markdown-note-app) | Intermediário | Node.js | API RESTful para gestão de notas em Markdown com upload de ficheiros, verificação gramatical via LanguageTool e renderização para HTML |
 
 Enunciados originais:
 
@@ -58,6 +60,7 @@ Enunciados originais:
 - [Todo List API no roadmap.sh](https://roadmap.sh/projects/todo-list-api)
 - [GitHub Trending CLI no roadmap.sh](https://roadmap.sh/projects/github-trending-cli)
 - [Caching Proxy no roadmap.sh](https://roadmap.sh/projects/caching-server)
+- [Markdown Note-taking App no roadmap.sh](https://roadmap.sh/projects/markdown-note-taking-app)
 
 ## Objetivo
 

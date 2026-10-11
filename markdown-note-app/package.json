@@ -1,0 +1,25 @@
+{
+  "name": "markdown-note-taking-app",
+  "version": "1.0.0",
+  "description": "API RESTful para gestão de notas em Markdown com upload, verificação gramatical e renderização HTML",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "marked": "^15.0.6",
+    "multer": "^1.4.5-lts.1"
+  },
+  "keywords": [
+    "markdown",
+    "notes",
+    "api",
+    "grammar-checker",
+    "rest"
+  ],
+  "author": "",
+  "license": "ISC"
+}
