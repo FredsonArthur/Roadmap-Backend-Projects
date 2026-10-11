@@ -1,0 +1,21 @@
+{
+  "name": "url-shortening-service",
+  "version": "1.0.0",
+  "description": "API RESTful de encurtamento de URLs com estatísticas e operações CRUD",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "keywords": [
+    "url-shortener",
+    "api",
+    "rest",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC"
+}
