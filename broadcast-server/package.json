@@ -1,0 +1,23 @@
+{
+  "name": "broadcast-server",
+  "version": "1.0.0",
+  "description": "Servidor de Broadcast em tempo real com WebSockets e interface CLI",
+  "main": "src/index.js",
+  "bin": {
+    "broadcast-server": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "keywords": [
+    "websocket",
+    "broadcast",
+    "cli",
+    "realtime"
+  ],
+  "author": "",
+  "license": "ISC"
+}

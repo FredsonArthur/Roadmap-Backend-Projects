@@ -25,6 +25,7 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
     ├── caching-proxy/
     ├── markdown-note-app/
     ├── url-shortening-service/
+    ├── broadcast-server/
     └── ...
 
 ## Projetos
@@ -45,7 +46,8 @@ Cada projeto fica em uma pasta própria, com o nome do projeto em kebab-case, e 
 | [GitHub Trending CLI](./github-trending-cli) | Intermediário | Node.js | Ferramenta de linha de comando (CLI) que consome a API REST do GitHub para listar repositórios em alta, com filtros de período, limite de resultados e ordenação por estrelas |
 | [Caching Proxy](./caching-proxy) | Intermediário | Node.js | Servidor proxy reverso em CLI que reencaminha requisições HTTP, armazena respostas em cache e retorna os cabeçalhos X-Cache (HIT/MISS) |
 | [Markdown Note-taking App](./markdown-note-app) | Intermediário | Node.js | API RESTful para gestão de notas em Markdown com upload de ficheiros, verificação gramatical via LanguageTool e renderização para HTML |
-| [URL Shortening Service](./url-shortening-service) | Intermediário | Node.js | API RESTful para encurtamento de URLs com operações CRUD, redirecionamento HTTP 301, rastreamento de estatísticas de acesso e persistência JSON |
+| [URL Shortening Service](./url-shortening-service) | Intermediário | Node.js | API RESTful para encurtamento de URLs com operações CRUD, redirecionamento HTTP 301, estatísticas de acesso e persistência JSON |
+| [Broadcast Server](./broadcast-server) | Intermediário | Node.js | Servidor de broadcast em tempo real com WebSockets e interface CLI para gerir conexões simultâneas de múltiplos clientes |
 
 Enunciados originais:
 
@@ -64,11 +66,12 @@ Enunciados originais:
 - [Caching Proxy no roadmap.sh](https://roadmap.sh/projects/caching-server)
 - [Markdown Note-taking App no roadmap.sh](https://roadmap.sh/projects/markdown-note-taking-app)
 - [URL Shortening Service no roadmap.sh](https://roadmap.sh/projects/url-shortening-service)
+- [Broadcast Server no roadmap.sh](https://roadmap.sh/projects/broadcast-server)
 
 ## Objetivo
 
 - Praticar lógica de programação e organização de código
 - Trabalhar com sistema de arquivos, APIs e bancos de dados, de acordo com cada projeto
 - Praticar desenvolvimento backend com Node.js
-- Praticar conceitos como autenticação JWT, arquitetura em camadas (MVC + Services) e segurança
+- Praticar conceitos como WebSockets, autenticação JWT, arquitetura em camadas e comunicação em tempo real
 - Manter um portfólio versionado e atualizado com o meu progresso
